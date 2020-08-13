@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83b42236881e16c4bb71c69fbe4f9f6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabFreezeBlock: {instanceID: 0}
+  - prefabSpeedUpBlock: {instanceID: 0}
+  - prefabFreeze: {fileID: 6104299069651063190, guid: 24ca1314ffe51dc4681e7f8fbecacb2a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

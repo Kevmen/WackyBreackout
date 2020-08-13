@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0702072ba6003f842b943eeeccddb682
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - paddle: {fileID: 3457269428981966489, guid: ebdab903aa0c5a04c8ddac13c1153cd8,
+      type: 3}
+  - prefabStandardBlock: {fileID: 5659421811351542269, guid: dc02d34982008564798199309c17d43a,
+      type: 3}
+  - prefabBonusBlock: {fileID: 4917852490114625427, guid: d8323e594b20d49439be835faa4f88f4,
+      type: 3}
+  - prefabPickupBlock: {fileID: 5240706061659313431, guid: 928c0688715f8784aae1a0ed90a83295,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
